@@ -81,7 +81,7 @@ export default function BirthdayPremiere({ data, onContinue }: PremiereProps) {
             transition={{ delay: 3.2, duration: 0.7 }}
             className="font-mono text-smoke text-xs tracking-widest2 uppercase"
           >
-            {data.birthday} — {data.age}
+            {data.birthday}
           </motion.p>
         )}
       </div>
