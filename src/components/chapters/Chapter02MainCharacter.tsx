@@ -14,7 +14,7 @@ export default function Chapter02MainCharacter({ data, onContinue }: ChapterProp
         Chapter 02
       </p>
       <h2 className="font-display text-4xl md:text-6xl text-parchment uppercase mb-12 text-center">
-        Main Character Energy
+        DISNEY PRINCESS
       </h2>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 w-full max-w-3xl mb-14">
